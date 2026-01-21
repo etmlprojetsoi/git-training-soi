@@ -16,3 +16,4 @@ Objectif : clone, commit, push.
 - Je pull sur main
 - Je crée/continue ma branche
 - J’update ma branche depuis main
+- Validation Jour 3 : PR créée depuis GitHub Desktop
