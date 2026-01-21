@@ -10,3 +10,6 @@ Objectif : clone, commit, push.
 - Création d'une branche
 - Push + Pull Request
 - Merge dans main
+## Graph demo
+- Branche créée + commit (Terminal)
+
