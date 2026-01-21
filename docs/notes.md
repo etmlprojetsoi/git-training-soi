@@ -6,5 +6,10 @@ Objectif : clone, commit, push.
 - git add
 - git commit
 - git push
+## PR demo
+- Création d'une branche
+- Push + Pull Request
+- Merge dans main
 ## Graph demo
 - Branche créée + commit (Terminal)
+
