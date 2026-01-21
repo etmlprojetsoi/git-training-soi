@@ -16,5 +16,12 @@ Objectif : clone, commit, push.
 - Je pull sur main
 - Je crée/continue ma branche
 - J’update ma branche depuis main
-- Validation Jour 3 : PR créée depuis GitHub Desktop (branche conflit-demo)
+- Validation Jour 3 : PR créée depuis GitHub Desktop
+- Commit sur main avec message : docs: conflit demo (main)
+## Jour 3 — Sync
+- Collègue modifie main
+- Je pull sur main
+- Je crée/continue ma branche
+- J’update ma branche depuis main
 - TEST conflit demo
+- Commit sur main avec message : docs: conflit demo (main)
