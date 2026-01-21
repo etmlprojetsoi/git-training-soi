@@ -17,3 +17,4 @@ Objectif : clone, commit, push.
 - Je crée/continue ma branche
 - J’update ma branche depuis main
 - Validation Jour 3 : PR créée depuis GitHub Desktop (branche conflit-demo)
+- TEST conflit demo
