@@ -11,5 +11,8 @@ Objectif : clone, commit, push.
 - Push + Pull Request
 - Merge dans main
 ## Graph demo
-- Branche créée + commit (Terminal)
-
+- Branche créée + commit (Terminal)## Jour 3 — Sync
+- Collègue modifie main
+- Je pull sur main
+- Je crée/continue ma branche
+- J’update ma branche depuis main
